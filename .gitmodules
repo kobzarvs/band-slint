@@ -1,0 +1,3 @@
+[submodule "mattermost-api-rust-driver"]
+	path = mattermost-api-rust-driver
+	url = https://github.com/kobzarvs/mattermost-api-rust-driver.git
